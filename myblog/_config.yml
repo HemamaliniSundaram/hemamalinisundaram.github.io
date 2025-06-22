@@ -1,0 +1,17 @@
+# Welcome to Jekyll!
+title: Hemamalini Sundaram
+email: hemamalini.sundaram@gmail.com
+description: >-
+  A personal site powered by Jekyll and GitHub Pages.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hemamalinisundaram.github.io"
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+timezone: Asia/Kolkata
