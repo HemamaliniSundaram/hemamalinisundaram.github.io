@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: Home
 ---
 
-# Hello 👋
+Welcome to my site.
 
-Welcome to my GitHub Pages site!
+- [Read all Stories](/stories/)
+- [Read all Articles](/articles/)
